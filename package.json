@@ -1,0 +1,1 @@
+{"name":"pay-terminal","version":"2.0.0","private":true,"scripts":{"start":"node server.js"},"dependencies":{"uuid":"^9.0.1","ws":"^8.18.0"}}
